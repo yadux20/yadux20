@@ -25,8 +25,7 @@
 
 ## 🤖 About Me
 
-I am an **AI/ML Engineer** from India 🇮🇳,  
-with a strong focus on **Machine Learning and Computer Vision**.
+I am an **AI/ML Engineer** from with a strong focus on **Machine Learning and Computer Vision**.
 
 - 🧠 Passionate about **AI, Computer Vision, Machine Learning and Deep Learning**
 - 🧪 Hands-on with **model building, experimentation, and optimization**
