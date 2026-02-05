@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadux20&style=flat-square&color=blue"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=yadux20&style=flat-square&color=blue"/> -->
   <h1>
     Hello, I'm Yadunandan B C
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
