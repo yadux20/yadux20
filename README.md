@@ -48,7 +48,7 @@ I am an **AI/ML Engineer** building production-grade computer vision systems for
 
 ## 🚀 Featured Projects
 
-**[YouTube GenAI Copilot](https://github.com/yadux20/youtube-genai-copilot)**
+**[YouTube Copilot](https://github.com/yadux20/Youtube_Copilot.git)**
 Chrome extension + FastAPI backend for real-time, context-aware Q&A over YouTube videos. Hybrid RAG pipeline (transcript chunking, Gemini embeddings, vector similarity search) combined with timestamp-aware retrieval, per-session conversational memory, and a Dockerized backend.
 
 **Automated Multi-Camera License Plate Detection & Recognition**
