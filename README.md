@@ -32,7 +32,7 @@ I am an **AI/ML Engineer** building production-grade computer vision systems for
 - 🤖 Building **LLM-powered applications** with LangChain, RAG, and prompt engineering
 - 🧩 Strong problem solver with a structured learning approach
 - 📚 Constantly learning through coursework, research papers, and projects
-- ✉️ Reach me at: **yadunandan2021@gmail.com**
+- ✉️ Reach me at: **yadunandanbc@gmail.com**
 
 ---
 
